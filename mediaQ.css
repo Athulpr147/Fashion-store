@@ -1,0 +1,64 @@
+@media screen and (max-width:1200px){
+    .main-text div{
+      font-size: 40px;
+      line-height: 55px;
+    }
+ }
+
+@media screen and (max-width:992px){
+   .main-text div{
+      font-size: 36px;
+      margin-top:50px;
+ line-height: 55px;
+      }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px){
+   
+   .main-text div{
+      font-size: 37px;
+      margin-top:200px;
+ line-height: 55px;
+ 
+      }
+      .footer-right{
+         display: block;
+        
+       }
+   
+   
+   
+   
+   }
+ 
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (max-width:576px){
+   
+   .main-text div{
+      font-size: 30px;
+      margin-top: 250px;
+ line-height: 35px;
+ 
+      }
+ }

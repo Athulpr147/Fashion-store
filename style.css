@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+/* .container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+} */
+/* navbar-brand */
+.bg-pink{
+  background-color: #c11e63;
+}
+.nav-bar{
+   
+    position: absolute;
+    width: 100%;
+    background-color: rgba(241, 0, 161, 0.5);
+}
+.navbar-brand{
+   font-size: 28px;
+   font-weight: 500;
+}
+.navlink-left{
+   font-size: 16px;
+   font-weight: 400;
+}
+.navlink-right{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+ /* section1 */
+ .section1 {
+  position: fixed;
+  z-index: -1;
+   width: 100%;
+    height: 695px;
+   background-image: url(img/main.jpg);
+   background-size: cover;
+   background-position: center;
+   
+ }
+ .section-1-cover{
+  width: 100%;
+  height: 695px;
+ 
+
+}
+
+/* main-text-content */
+
+.main-text {
+    padding-top: 19%;
+    padding-left: 10%;
+    
+     
+     
+  }
+.main-text div{
+    font-size: 44px;
+     font-weight: 800;
+     line-height: 55px;
+   color: rgb(255, 255, 255)
+     
+     
+  }
+  .main-text a{
+    font-weight: 600;
+  }
+  .margin-br{
+    background-color: white;
+    width: 100%;
+    height: 10px;
+  }
+  /* section2 */
+
+.section2{
+  width: 100%;
+ 
+ background-color: #ffffff;
+ border-radius: 20px 20px 0px 0px;
+}
+.section2-row{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section2-row div img{
+ margin-left: 50%;
+ margin-bottom: 30px; 
+ transform: translateX(-50%);
+
+}
+.catagories-section div{
+ 
+  height: 500px;
+  border-radius: 0px;
+ 
+}
+.card-title-cata{
+  margin-top: 290px;
+  color: white;
+  font-weight: 700;
+}
+.card-text-cata{
+  color: #ffffff;
+  font-weight: 600;
+}
+.card-bttn{
+ font-weight: 600;
+}
+
+/* mens */
+.men-pic{
+  background-image: url(img/cata-men.jpg);
+  background-size: cover;
+   background-position: top;
+  
+  }
+
+/* women */
+.women-pic{
+  background-image:url(img/cata-women.jpg);
+  background-size: cover;
+   background-position: top;
+}
+/* kids */
+.kids-pic{
+  background-image: url(img/cata-kids.jpg);
+  background-size: cover;
+   background-position: top;
+}
+
+/* section3 */
+
+
+.products{
+  width: 100%;
+  height: auto;
+  background-color: #ffffff;
+}
+.products .card-body{
+    border-radius: 0px;
+}
+.products .card{
+  border-radius: 0px;
+}
+.bg-white{
+  background-color: #ffffff;
+}
+/* out of stock */
+
+/* offer */
+.offers{
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+}
+/* footer */
+.bg-footer{
+  background-color: #f1f3f4;
+}
+.footer-logo{
+  font-weight: 800;
+  
+  padding: 50px 50px 50px 50px;
+}
+.logo-span{
+  font-size: 15px;
+}
+.social{
+  display: flex;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+.social img{
+  width: 18px;
+  margin-right: 10px;
+}
+li,li{
+  list-style: none;
+}
+.footer-right{
+  display: flex;
+ 
+}
+.footer-right ul{
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  margin-left: 20px;
+}
+.footer-right li{
+  padding-top: 5px;
+}
+
+  
